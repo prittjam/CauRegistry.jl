@@ -1,0 +1,6 @@
+name = "InformatikRegistry"
+uuid = "2ae0d7d0-4ccf-4d31-a4a9-ce95dd015bfa"
+repo = "/mnt/informatik/JuliaRegistry"
+description = "Uni Kiel Informatik Julia package registry"
+
+[packages]
