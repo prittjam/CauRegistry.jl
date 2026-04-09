@@ -4,4 +4,5 @@ repo = "/mnt/informatik/JuliaRegistry"
 description = "Uni Kiel Informatik Julia package registry"
 
 [packages]
+297d53b8-c8d7-4cd7-a9af-68e656508a81 = { name = "VisualGeometryCore", path = "V/VisualGeometryCore" }
 d4ead438-fe20-5cc5-a293-4fd39a41b74c = { name = "SpatialIndexing", path = "S/SpatialIndexing" }
