@@ -1,7 +1,7 @@
-name = "InformatikRegistry"
+name = "CauRegistry"
 uuid = "2ae0d7d0-4ccf-4d31-a4a9-ce95dd015bfa"
-repo = "/mnt/informatik/JuliaRegistry"
-description = "Uni Kiel Informatik Julia package registry"
+repo = "git@github.com:prittjam/CauRegistry.jl.git"
+description = "CAU Kiel Julia package registry"
 
 [packages]
 297d53b8-c8d7-4cd7-a9af-68e656508a81 = { name = "VisualGeometryCore", path = "V/VisualGeometryCore" }
