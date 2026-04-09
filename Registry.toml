@@ -5,4 +5,5 @@ description = "Uni Kiel Informatik Julia package registry"
 
 [packages]
 297d53b8-c8d7-4cd7-a9af-68e656508a81 = { name = "VisualGeometryCore", path = "V/VisualGeometryCore" }
+9e05951d-65eb-41d6-b120-50dff4d82817 = { name = "VisualGeometryFeatures", path = "V/VisualGeometryFeatures" }
 d4ead438-fe20-5cc5-a293-4fd39a41b74c = { name = "SpatialIndexing", path = "S/SpatialIndexing" }
