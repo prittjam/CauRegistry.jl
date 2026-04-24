@@ -1,0 +1,3 @@
+name = "LightRigCalibration"
+uuid = "c08b2ec2-f1d4-4299-b158-4baa5aad1754"
+repo = "git@github.com:phib2b/LightRigCalibration.jl.git"
