@@ -11,3 +11,6 @@ cuDNN = "1.4.7-1"
 ["0.1.6-0"]
 TensorBoardLogger = "0.1"
 Zygote = "0.7"
+
+["0.1.7-0"]
+PythonCall = "0.9"
