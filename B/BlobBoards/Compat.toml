@@ -39,6 +39,9 @@ Optimisers = "0.4.7-0.4"
 Reactant = "0.2.240-0.2"
 cuDNN = "1.4.7-1"
 
+["0.1.11-0"]
+AcceleratedKernels = "0.4.3-0.4"
+
 ["0.1.4-0"]
 CUDA = "5.11.0-5"
 

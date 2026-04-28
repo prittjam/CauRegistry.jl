@@ -56,5 +56,8 @@ cuDNN = "02a925ec-e4fe-4b08-9a7e-0d78e3d38ccd"
 ["0-0.1.6"]
 PythonCall = "6099a3de-0909-46bc-b1f4-468b9a2dfc0d"
 
+["0.1.11-0"]
+AcceleratedKernels = "6a4ca0a5-0e36-4168-a932-d9be78d558f1"
+
 ["0.1.6-0"]
 Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
