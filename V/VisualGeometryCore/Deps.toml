@@ -31,3 +31,6 @@ Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 Transducers = "28d57a85-8fef-5791-bfe6-a80928e7c999"
 Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
 cuDNN = "02a925ec-e4fe-4b08-9a7e-0d78e3d38ccd"
+
+["0.1.17-0"]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
