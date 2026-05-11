@@ -19,14 +19,16 @@ NearestNeighbors = "0.4"
 ONNXRunTime = "1.3.1-1"
 Poppler_jll = "25.10.0-25"
 QRCoders = "1.4.0-1"
-RobustVisualGeometry = "0.1"
 Rotations = "1"
 SpatialIndexing = "0.1"
 SpecialFunctions = "2.7.1-2"
 VideoIO = "1.4.0-1"
+julia = "1.12.0-1"
+
+["0-0.1.11"]
+RobustVisualGeometry = "0.1"
 VisualGeometryCore = "0.1"
 VisualGeometryFeatures = "0.1"
-julia = "1.12.0-1"
 
 ["0-0.1.3"]
 AcceleratedKernels = "0.4.3-0.4"
@@ -41,6 +43,11 @@ cuDNN = "1.4.7-1"
 
 ["0.1.11-0"]
 AcceleratedKernels = "0.4.3-0.4"
+
+["0.1.12-0"]
+RobustVisualGeometry = "0.1.16-0.1"
+VisualGeometryCore = "0.2"
+VisualGeometryFeatures = "0.1.7-0.1"
 
 ["0.1.4-0"]
 CUDA = "5.11.0-5"
