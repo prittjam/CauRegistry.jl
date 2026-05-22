@@ -44,10 +44,17 @@ cuDNN = "1.4.7-1"
 ["0.1.11-0"]
 AcceleratedKernels = "0.4.3-0.4"
 
-["0.1.12-0"]
+["0.1.12"]
 RobustVisualGeometry = "0.1.16-0.1"
+
+["0.1.12-0"]
 VisualGeometryCore = "0.2"
 VisualGeometryFeatures = "0.1.7-0.1"
+
+["0.1.13-0"]
+RobustVisualGeometry = "0.2"
+VulkanASIFT = "0.1"
+cuDNN = "1.4.7-1"
 
 ["0.1.4-0"]
 CUDA = "5.11.0-5"

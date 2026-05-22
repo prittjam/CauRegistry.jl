@@ -5,10 +5,12 @@ Lux = "1.31.3-1"
 NNlib = "0.9.33-0.9"
 Optimisers = "0.4.7-0.4"
 Reactant = "0.2.240-0.2"
-cuDNN = "1.4.7-1"
 
 ["0.1.4-0.1.10"]
 AcceleratedKernels = "0.4.3-0.4"
+
+["0.1.4-0.1.12"]
+cuDNN = "1.4.7-1"
 
 ["0.1.6-0"]
 TensorBoardLogger = "0.1"
