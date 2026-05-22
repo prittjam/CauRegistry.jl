@@ -6,6 +6,7 @@ description = "CAU Kiel Julia package registry"
 [packages]
 297d53b8-c8d7-4cd7-a9af-68e656508a81 = { name = "VisualGeometryCore", path = "V/VisualGeometryCore" }
 48970fad-9a21-401c-bf6c-679fa4f2bd7f = { name = "RobustVisualGeometry", path = "R/RobustVisualGeometry" }
+8b3a1c2f-7d4e-4a6b-9c5e-1e8f3a2b4d6c = { name = "VulkanASIFT", path = "V/VulkanASIFT" }
 93a5632c-6c4c-4c98-b3b2-221d1d9ee9e0 = { name = "BlobBoards", path = "B/BlobBoards" }
 9e05951d-65eb-41d6-b120-50dff4d82817 = { name = "VisualGeometryFeatures", path = "V/VisualGeometryFeatures" }
 a8c7e0b4-3d2f-4f1c-9a1e-7b2d9c8f4a3b = { name = "PoseLib", path = "P/PoseLib" }
