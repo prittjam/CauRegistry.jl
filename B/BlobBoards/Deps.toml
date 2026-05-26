@@ -65,3 +65,6 @@ cuDNN = "02a925ec-e4fe-4b08-9a7e-0d78e3d38ccd"
 
 ["0.1.6-0"]
 Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
+
+["0.2-0"]
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
