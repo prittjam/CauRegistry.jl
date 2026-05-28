@@ -24,6 +24,8 @@ DrWatson = "2.19.1-2"
 KernelAbstractions = "0.9.41-0.9"
 PoseLib = "0.1"
 SlurmClusterManager = "1.1.0-1"
+
+["0.1.16-0.2.9"]
 VisualGeometryCore = "0.2"
 VisualGeometryFeatures = "0.1.7-0.1"
 
@@ -40,3 +42,7 @@ PGFPlotsX = "1.6.2-1"
 
 ["0.1.8-0"]
 ExplicitImports = "1.15.0-1"
+
+["0.2.10-0"]
+VisualGeometryCore = "0.2.5-0.2"
+VisualGeometryFeatures = "0.1.10-0.1"
