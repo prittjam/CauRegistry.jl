@@ -43,6 +43,13 @@ PGFPlotsX = "1.6.2-1"
 ["0.1.8-0"]
 ExplicitImports = "1.15.0-1"
 
-["0.2.10-0"]
+["0.2.10"]
 VisualGeometryCore = "0.2.5-0.2"
+
+["0.2.10-0"]
 VisualGeometryFeatures = "0.1.10-0.1"
+
+["0.2.11-0"]
+FastLevenbergMarquardt = "0.1"
+RansacScoringDoneRight = "0.1"
+VisualGeometryCore = "0.2.6-0.2"
