@@ -13,4 +13,5 @@ a8c7e0b4-3d2f-4f1c-9a1e-7b2d9c8f4a3b = { name = "PoseLib", path = "P/PoseLib" }
 b6163ec4-f4fe-4f77-8966-0a302dceebb9 = { name = "RayTracedCalibration", path = "R/RayTracedCalibration" }
 c08b2ec2-f1d4-4299-b158-4baa5aad1754 = { name = "LightRigCalibration", path = "L/LightRigCalibration" }
 d4ead438-fe20-5cc5-a293-4fd39a41b74c = { name = "SpatialIndexing", path = "S/SpatialIndexing" }
+e23d4225-f201-4c3a-a297-7efae5f2deeb = { name = "RansacScoringDoneRight", path = "R/RansacScoringDoneRight" }
 f42e9828-16f3-11ed-2883-9126170b272d = { name = "QRCoders", path = "Q/QRCoders" }

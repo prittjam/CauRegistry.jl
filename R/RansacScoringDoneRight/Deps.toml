@@ -1,0 +1,5 @@
+[0]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+SpecialFunctions = "276daf66-3868-5448-9aa4-cd146d93841b"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+VisualGeometryCore = "297d53b8-c8d7-4cd7-a9af-68e656508a81"

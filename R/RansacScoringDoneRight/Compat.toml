@@ -1,0 +1,5 @@
+[0]
+SpecialFunctions = "2"
+StaticArrays = "1"
+VisualGeometryCore = "0.2.6-0.2"
+julia = "1.10.0-1"
