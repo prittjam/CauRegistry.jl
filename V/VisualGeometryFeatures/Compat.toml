@@ -18,9 +18,14 @@ Unitful = "1"
 ["0-0.1.9"]
 SpatialIndexing = "0.1"
 
+["0.1.10"]
+VisualGeometryCore = "0.2.5-0.2"
+
 ["0.1.10-0"]
 SpatialIndexing = "0.1.7-0.1"
-VisualGeometryCore = "0.2.5-0.2"
+
+["0.1.11-0"]
+VisualGeometryCore = "0.2.6-0.2"
 
 ["0.1.7-0"]
 DelimitedFiles = "1.9.1-1"
