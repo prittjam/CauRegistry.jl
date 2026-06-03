@@ -1,3 +1,12 @@
 [0]
-VisualGeometryCore = "0.1"
 julia = "1.12.0-1"
+
+["0-0.1.0"]
+VisualGeometryCore = "0.1"
+
+["0.1.1-0"]
+Colors = "0.13"
+GeometryBasics = "0.5"
+Rotations = "1"
+StaticArrays = "1"
+VisualGeometryCore = "0.2.6-0.2"
