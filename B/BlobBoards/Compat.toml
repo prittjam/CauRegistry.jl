@@ -105,8 +105,13 @@ RobustVisualGeometry = "0.2.10-0.2"
 VisualGeometryFeatures = "0.1.10-0.1"
 
 ["0.7.2-0"]
-RobustVisualGeometry = "0.2.11-0.2"
 VisualGeometryCore = "0.2.6-0.2"
+
+["0.7.2-0.7.3"]
+RobustVisualGeometry = "0.2.11-0.2"
 
 ["0.7.3-0"]
 VisualGeometryFeatures = "0.1.11-0.1"
+
+["0.7.4-0"]
+RobustVisualGeometry = "0.2.12-0.2"
