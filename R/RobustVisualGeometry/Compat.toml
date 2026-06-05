@@ -57,5 +57,10 @@ FastLevenbergMarquardt = "0.1"
 VisualGeometryCore = "0.2.6-0.2"
 
 ["0.2.12-0"]
-RansacScoringDoneRight = "0.2"
 VisualGeometryFeatures = "0.1.11-0.1"
+
+["0.2.12-0.2.13"]
+RansacScoringDoneRight = "0.2"
+
+["0.2.14-0"]
+RansacScoringDoneRight = "0.3"
