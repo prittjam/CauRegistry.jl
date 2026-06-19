@@ -22,12 +22,14 @@ ProgressMeter = "1.11.0-1"
 CUDA = "5.11.1-5"
 DrWatson = "2.19.1-2"
 KernelAbstractions = "0.9.41-0.9"
-PoseLib = "0.1"
 SlurmClusterManager = "1.1.0-1"
 
 ["0.1.16-0.2.9"]
 VisualGeometryCore = "0.2"
 VisualGeometryFeatures = "0.1.7-0.1"
+
+["0.1.16-0.3.0"]
+PoseLib = "0.1"
 
 ["0.1.4"]
 Rotations = "1"
@@ -67,3 +69,6 @@ RansacScoringDoneRight = "0.3"
 
 ["0.3-0"]
 RansacScoringDoneRight = "0.4"
+
+["0.3.1-0"]
+PoseLib = "0.1.1-0.1"
