@@ -67,8 +67,11 @@ RansacScoringDoneRight = "0.2"
 ["0.2.14-0.2"]
 RansacScoringDoneRight = "0.3"
 
-["0.3-0"]
+["0.3-0.4"]
 RansacScoringDoneRight = "0.4"
 
 ["0.3.1-0"]
 PoseLib = "0.1.1-0.1"
+
+["0.5-0"]
+RansacScoringDoneRight = "0.5"
