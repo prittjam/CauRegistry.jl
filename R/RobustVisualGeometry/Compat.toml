@@ -83,4 +83,9 @@ PoseLib = "0.1.1-0.2"
 
 ["0.7-0"]
 RansacScoringDoneRight = "0.6"
+
+["0.7-0.8.0"]
 VisualGeometryCore = "0.2.6-0.3"
+
+["0.8.1-0"]
+VisualGeometryCore = "0.3"
