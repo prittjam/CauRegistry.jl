@@ -35,3 +35,6 @@ MacroTools = "0.5"
 
 ["0.3.1-0"]
 KernelAbstractions = "0.9"
+
+["0.3.2-0"]
+julia = "1.12.0-1"
