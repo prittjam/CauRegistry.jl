@@ -37,3 +37,6 @@ CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
 
 ["0.2-0"]
 MacroTools = "1914dd2f-81c6-5fcd-8719-6d5c9610ff09"
+
+["0.3.1-0"]
+KernelAbstractions = "63c18a36-062a-441e-b654-da1e3ab1ce7c"

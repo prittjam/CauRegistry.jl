@@ -32,3 +32,6 @@ CairoMakie = "0.15.10-0.15"
 
 ["0.2-0"]
 MacroTools = "0.5"
+
+["0.3.1-0"]
+KernelAbstractions = "0.9"
