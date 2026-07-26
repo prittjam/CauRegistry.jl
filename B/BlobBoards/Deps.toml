@@ -64,8 +64,6 @@ AcceleratedKernels = "6a4ca0a5-0e36-4168-a932-d9be78d558f1"
 ["0.1.13-0"]
 cuDNN = "02a925ec-e4fe-4b08-9a7e-0d78e3d38ccd"
 
-["0.1.13-0.8.4"]
-
 ["0.1.6-0"]
 Logging = "56ddb016-857b-54e1-b83d-db4d58db5568"
 

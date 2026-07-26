@@ -58,8 +58,6 @@ VisualGeometryFeatures = "0.1.7-0.1"
 ["0.1.13-0"]
 cuDNN = "1.4.7-1"
 
-["0.1.13-0.6"]
-
 ["0.1.13-0.6.1"]
 RobustVisualGeometry = "0.2"
 
@@ -95,8 +93,6 @@ VisualGeometryFeatures = "0.1.9-0.1"
 
 ["0.6.2-0.7.1"]
 VisualGeometryCore = "0.2.5-0.2"
-
-["0.7"]
 
 ["0.7-0"]
 QRCoders = "1.4.6-1"
@@ -147,7 +143,12 @@ RobustVisualGeometry = "0.10"
 ["0.8.4"]
 RobustVisualGeometry = "0.11"
 
-["0.8.5-0"]
+["0.8.5"]
 RobustVisualGeometry = "0.11.2-0.11"
+
+["0.8.5-0"]
 VisualGeometryCore = "0.4"
 VisualGeometryFeatures = "0.3"
+
+["0.8.6-0"]
+RobustVisualGeometry = "0.11"
