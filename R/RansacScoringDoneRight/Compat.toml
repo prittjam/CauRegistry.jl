@@ -25,5 +25,8 @@ SHA = "0.7"
 ["0.6.0"]
 VisualGeometryCore = "0.2.6-0.3"
 
-["0.6.1-0"]
+["0.6.1"]
 VisualGeometryCore = "0.3"
+
+["0.6.2-0"]
+VisualGeometryCore = "0.3-0.4"
