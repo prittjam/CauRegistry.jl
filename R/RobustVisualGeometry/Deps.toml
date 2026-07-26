@@ -26,6 +26,8 @@ CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
 DrWatson = "634d3b9d-ee7a-5ddf-bec9-22491ea816e1"
 KernelAbstractions = "63c18a36-062a-441e-b654-da1e3ab1ce7c"
 SlurmClusterManager = "c82cd089-7bf7-41d7-976b-6b5d413cbe0a"
+
+["0.1.16-0.11.2"]
 VisualGeometryFeatures = "9e05951d-65eb-41d6-b120-50dff4d82817"
 
 ["0.1.16-0.8.2"]
