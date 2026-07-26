@@ -18,3 +18,7 @@ Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
 
 ["0.1.7-0"]
 PythonCall = "6099a3de-0909-46bc-b1f4-468b9a2dfc0d"
+
+["0.8.5-0"]
+CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
+Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
