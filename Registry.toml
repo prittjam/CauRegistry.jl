@@ -7,6 +7,7 @@ description = "CAU Kiel Julia package registry"
 297d53b8-c8d7-4cd7-a9af-68e656508a81 = { name = "VisualGeometryCore", path = "V/VisualGeometryCore" }
 3225cc9d-5db1-44e4-a792-28f8e5474c59 = { name = "RobustVisualGeometryEval", path = "R/RobustVisualGeometryEval" }
 48970fad-9a21-401c-bf6c-679fa4f2bd7f = { name = "RobustVisualGeometry", path = "R/RobustVisualGeometry" }
+87a2e6a3-7afc-471f-bd1b-aa3740a29cd9 = { name = "ScoreSharpRefineSoft", path = "S/ScoreSharpRefineSoft" }
 93a5632c-6c4c-4c98-b3b2-221d1d9ee9e0 = { name = "BlobBoards", path = "B/BlobBoards" }
 9e05951d-65eb-41d6-b120-50dff4d82817 = { name = "VisualGeometryFeatures", path = "V/VisualGeometryFeatures" }
 a8c7e0b4-3d2f-4f1c-9a1e-7b2d9c8f4a3b = { name = "PoseLib", path = "P/PoseLib" }
