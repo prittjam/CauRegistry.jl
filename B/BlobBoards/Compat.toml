@@ -3,7 +3,6 @@ Colors = "0.13"
 FileIO = "1"
 HDF5 = "0.17.2-0.17"
 Images = "0.26"
-Interpolations = "0.16"
 JLD2 = "0.6.3-0.6"
 KernelAbstractions = "0.9.41-0.9"
 ONNXRunTime = "1.3.1-1"
@@ -47,6 +46,9 @@ Infiltrator = "1"
 JSON = "1.4.0-1"
 Makie = "0.24"
 
+["0-0.9.0"]
+Interpolations = "0.16"
+
 ["0.1.11-0"]
 AcceleratedKernels = "0.4.3-0.4"
 
@@ -70,7 +72,6 @@ CUDA = "5.11.0-5"
 CoordinateTransformations = "0.6"
 FixedPointNumbers = "0.8"
 GeometryBasics = "0.5"
-ImageTransformations = "0.10"
 JSON3 = "1"
 LinearAlgebra = "1"
 Logging = "1"
@@ -81,10 +82,13 @@ StaticArrays = "1"
 Statistics = "1"
 StructArrays = "0.7"
 StructTypes = "1"
-Unitful = "1"
 
 ["0.1.8-0.8.4"]
 CairoMakie = "0.15"
+
+["0.1.8-0.9.0"]
+ImageTransformations = "0.10"
+Unitful = "1"
 
 ["0.3-0.8"]
 Libdl = "1"
@@ -149,11 +153,16 @@ RobustVisualGeometry = "0.11"
 RobustVisualGeometry = "0.11.2-0.11"
 
 ["0.8.5-0"]
-VisualGeometryCore = "0.4"
 VisualGeometryFeatures = "0.3"
+
+["0.8.5-0.9.0"]
+VisualGeometryCore = "0.4"
 
 ["0.8.6-0.8"]
 RobustVisualGeometry = "0.11"
 
 ["0.9-0"]
 RobustVisualGeometry = "0.12"
+
+["0.9.1-0"]
+VisualGeometryCore = "0.4-0.5"
