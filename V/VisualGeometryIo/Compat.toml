@@ -1,0 +1,7 @@
+[0]
+DynamicQuantities = "1.13.0-1"
+JSON3 = "1"
+Rotations = "1"
+StaticArrays = "1"
+VisualGeometryCore = "0.5"
+julia = "1.10.0-1"
