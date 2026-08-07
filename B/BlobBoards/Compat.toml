@@ -173,11 +173,15 @@ VisualGeometryCore = "0.6"
 ["0.9.5"]
 VisualGeometryCore = "0.7"
 
-["0.9.5-0"]
+["0.9.5-0.9.7"]
 RobustVisualGeometry = "0.12-0.13"
 
 ["0.9.6"]
 VisualGeometryCore = "0.7-0.8"
 
-["0.9.7-0"]
+["0.9.7"]
 VisualGeometryCore = "0.7-0.9"
+
+["0.9.8-0"]
+RobustVisualGeometry = "0.12-0.15"
+VisualGeometryCore = "0.7-0.10"
