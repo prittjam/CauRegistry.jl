@@ -60,8 +60,11 @@ VisualGeometryCore = "0.7-0.11"
 ["0.3.12"]
 VisualGeometryCore = "0.7-0.12"
 
-["0.3.13-0"]
+["0.3.13"]
 VisualGeometryCore = "0.7-0.13"
+
+["0.3.14-0"]
+VisualGeometryCore = "0.7-0.14"
 
 ["0.3.4-0"]
 DynamicQuantities = "1.13.0-1"
