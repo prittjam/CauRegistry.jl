@@ -90,6 +90,9 @@ CairoMakie = "0.15"
 ImageTransformations = "0.10"
 Unitful = "1"
 
+["0.10-0"]
+TOML = "1"
+
 ["0.3-0.8"]
 Libdl = "1"
 
