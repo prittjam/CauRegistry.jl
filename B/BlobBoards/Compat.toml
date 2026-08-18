@@ -113,6 +113,11 @@ VisualGeometryFeatures = "0.4-0.6"
 RobustVisualGeometry = "0.15.7-0.15"
 SpatialIndexing = "0.1.10-0.1"
 
+["0.17-0"]
+Artifacts = "1"
+Pkg = "1"
+VisualGeometryIo = "0.5"
+
 ["0.3-0.8"]
 Libdl = "1"
 

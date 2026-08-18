@@ -81,5 +81,10 @@ TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
 ["0.11-0"]
 ConstructionBase = "187b0558-2788-49d3-abe0-74a17ed4e7c9"
 
+["0.17-0"]
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+VisualGeometryIo = "d0441031-17df-4f07-bc88-8d8f5a818e7b"
+
 ["0.2-0.8"]
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
