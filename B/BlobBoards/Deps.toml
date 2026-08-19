@@ -86,5 +86,8 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
 VisualGeometryIo = "d0441031-17df-4f07-bc88-8d8f5a818e7b"
 
+["0.18-0"]
+Scratch = "6c6a2e73-6563-6170-7368-637461726353"
+
 ["0.2-0.8"]
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"

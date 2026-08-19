@@ -118,6 +118,9 @@ Artifacts = "1"
 Pkg = "1"
 VisualGeometryIo = "0.5"
 
+["0.18-0"]
+Scratch = "1"
+
 ["0.3-0.8"]
 Libdl = "1"
 
