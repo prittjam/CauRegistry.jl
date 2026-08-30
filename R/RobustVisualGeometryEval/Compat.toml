@@ -4,3 +4,10 @@ Logging = "1.11.0-1"
 Optim = "2.2.1-2"
 SHA = "0.7"
 TOML = "1.0.3-1"
+
+["0.2-0"]
+PoseLib = "0.3"
+RansacScoringDoneRight = "0.7"
+RobustVisualGeometry = "0.15"
+VisualGeometryCore = "0.14"
+VisualGeometryFeatures = "0.6"
