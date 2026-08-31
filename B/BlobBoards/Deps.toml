@@ -92,9 +92,14 @@ Scratch = "6c6a2e73-6563-6170-7368-637461726353"
 ["0.2-0.8"]
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 
+["0.20"]
+Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
+
 ["0.20-0"]
 HDF5 = "f67ccb44-e63f-5c2f-98bd-6dc0ccc4ba2f"
 ImageFiltering = "6a3955dd-da59-5b1f-98d4-e7296123deb5"
 ImageTransformations = "02fcd773-0e25-5acc-982a-7f6622650795"
 Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
-Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"
+
+["0.21-0"]
+ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"

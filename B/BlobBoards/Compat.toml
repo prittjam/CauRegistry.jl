@@ -110,24 +110,36 @@ VisualGeometryFeatures = "0.4-0.5"
 VisualGeometryFeatures = "0.4-0.6"
 
 ["0.16-0"]
-RobustVisualGeometry = "0.15.7-0.15"
 SpatialIndexing = "0.1.10-0.1"
+
+["0.16-0.20"]
+RobustVisualGeometry = "0.15.7-0.15"
 
 ["0.17-0"]
 Artifacts = "1"
 Pkg = "1"
+
+["0.17-0.20"]
 VisualGeometryIo = "0.5"
 
 ["0.18-0"]
 Scratch = "1"
+
+["0.20"]
+Makie = "0.24"
 
 ["0.20-0"]
 HDF5 = "0.17.2-0.17"
 ImageFiltering = "0.7.12-0.7"
 ImageTransformations = "0.10.2-0.10"
 Interpolations = "0.16.3-0.16"
-Makie = "0.24"
 VisualGeometryFeatures = "0.6.2-0.6"
+
+["0.21-0"]
+ForwardDiff = "1.3.2-1"
+RobustVisualGeometry = "0.16"
+VisualGeometryCore = "0.15"
+VisualGeometryIo = "0.5-0.6"
 
 ["0.3-0.8"]
 Libdl = "1"
@@ -214,7 +226,7 @@ VisualGeometryCore = "0.7-0.12"
 ["0.9.11"]
 VisualGeometryCore = "0.7-0.13"
 
-["0.9.12-0"]
+["0.9.12-0.20"]
 VisualGeometryCore = "0.7-0.14"
 
 ["0.9.4"]
