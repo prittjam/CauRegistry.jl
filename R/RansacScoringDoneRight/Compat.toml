@@ -43,8 +43,11 @@ VisualGeometryCore = "0.6-0.14"
 ["0.7.13"]
 VisualGeometryCore = "0.6-0.15"
 
-["0.7.14-0"]
+["0.7.14"]
 VisualGeometryCore = "0.16"
+
+["0.7.15-0"]
+VisualGeometryCore = "0.16-0.17"
 
 ["0.7.3"]
 VisualGeometryCore = "0.4-0.5"
