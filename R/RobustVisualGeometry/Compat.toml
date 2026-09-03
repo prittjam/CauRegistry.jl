@@ -115,7 +115,12 @@ RansacScoringDoneRight = "0.7"
 Rotations = "1"
 SpecialFunctions = "2"
 Statistics = "1"
+
+["0.16.4-0.16"]
 VisualGeometryCore = "0.18"
+
+["0.17-0"]
+VisualGeometryCore = "0.19"
 
 ["0.2.10"]
 VisualGeometryCore = "0.2.5-0.2"
