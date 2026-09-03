@@ -48,6 +48,9 @@ PGFPlotsX = "8314cec4-20b6-5062-9cdb-752b83310925"
 ["0.1.8-0.15.4"]
 ExplicitImports = "7d51a73a-1435-4ff3-83d9-f097790105c7"
 
+["0.18-0"]
+TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
+
 ["0.2.11-0"]
 FastLevenbergMarquardt = "7a0df574-e128-4d35-8cbd-3d84502bf7ce"
 RansacScoringDoneRight = "e23d4225-f201-4c3a-a297-7efae5f2deeb"

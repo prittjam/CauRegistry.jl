@@ -122,6 +122,9 @@ VisualGeometryCore = "0.18"
 ["0.17-0"]
 VisualGeometryCore = "0.19"
 
+["0.18-0"]
+TOML = "1"
+
 ["0.2.10"]
 VisualGeometryCore = "0.2.5-0.2"
 
