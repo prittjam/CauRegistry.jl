@@ -8,6 +8,12 @@ TOML = "1.0.3-1"
 ["0.2-0"]
 PoseLib = "0.3"
 RansacScoringDoneRight = "0.7"
+VisualGeometryFeatures = "0.6"
+
+["0.2-0.2.20"]
 RobustVisualGeometry = "0.15"
 VisualGeometryCore = "0.14"
-VisualGeometryFeatures = "0.6"
+
+["0.2.21-0"]
+RobustVisualGeometry = "0.15-0.16"
+VisualGeometryCore = "0.18"
