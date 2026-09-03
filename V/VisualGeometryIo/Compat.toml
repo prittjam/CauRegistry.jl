@@ -26,5 +26,8 @@ SQLite = "1"
 ["0.7.0"]
 VisualGeometryCore = "0.16"
 
-["0.7.1-0"]
+["0.7.1"]
 VisualGeometryCore = "0.16-0.17"
+
+["0.7.2-0"]
+VisualGeometryCore = "0.16-0.18"
