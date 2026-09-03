@@ -9,7 +9,6 @@ VisualGeometryCore = "0.2.6-0.2"
 ["0.2-0"]
 Distributions = "0.25.125-0.25"
 KernelAbstractions = "0.9"
-Logging = "1.11.0-1"
 Printf = "1.11.0-1"
 StructArrays = "0.7.3-0.7"
 
@@ -21,6 +20,9 @@ HDF5 = "0.17.3-0.17"
 JLD2 = "0.6.4-0.6"
 Optim = "2.1.0-2"
 SHA = "0.7"
+
+["0.2-0.7.16"]
+Logging = "1.11.0-1"
 
 ["0.6.0"]
 VisualGeometryCore = "0.2.6-0.3"
@@ -49,8 +51,11 @@ VisualGeometryCore = "0.16"
 ["0.7.15"]
 VisualGeometryCore = "0.16-0.17"
 
-["0.7.16-0"]
+["0.7.16"]
 VisualGeometryCore = "0.16-0.18"
+
+["0.7.17-0"]
+VisualGeometryCore = "0.18"
 
 ["0.7.3"]
 VisualGeometryCore = "0.4-0.5"
