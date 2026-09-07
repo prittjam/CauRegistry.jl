@@ -8,3 +8,6 @@ VisualGeometryCore = "297d53b8-c8d7-4cd7-a9af-68e656508a81"
 
 ["0.6-0"]
 SQLite = "0aa819cd-b072-5ff4-a722-6bc24af294d9"
+
+["0.7.6-0"]
+SHA = "ea8e919c-243c-51af-8825-aaa63cd721ce"
