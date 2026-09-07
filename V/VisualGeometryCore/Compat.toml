@@ -45,6 +45,9 @@ Statistics = "1"
 ["0.2-0"]
 MacroTools = "0.5"
 
+["0.21.1-0"]
+TOML = "1"
+
 ["0.3.1-0"]
 KernelAbstractions = "0.9"
 

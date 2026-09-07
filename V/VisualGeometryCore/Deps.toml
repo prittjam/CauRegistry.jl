@@ -43,6 +43,9 @@ Adapt = "79e6a3ab-5dfb-504d-930d-738a2a938a0e"
 ["0.2-0"]
 MacroTools = "1914dd2f-81c6-5fcd-8719-6d5c9610ff09"
 
+["0.21.1-0"]
+TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
+
 ["0.3.1-0"]
 KernelAbstractions = "63c18a36-062a-441e-b654-da1e3ab1ce7c"
 
