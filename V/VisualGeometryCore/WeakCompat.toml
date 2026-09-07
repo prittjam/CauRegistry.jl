@@ -11,3 +11,6 @@ NNlib = "0.9"
 
 ["0.12-0"]
 ChainRulesCore = "1"
+
+["0.21-0"]
+CUDA = "5"
