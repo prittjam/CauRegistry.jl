@@ -101,9 +101,13 @@ ImageFiltering = "6a3955dd-da59-5b1f-98d4-e7296123deb5"
 ImageTransformations = "02fcd773-0e25-5acc-982a-7f6622650795"
 Interpolations = "a98d9a8b-a2ab-59e6-89dd-64a1c18fca59"
 
-["0.21-0"]
+["0.21-0.26"]
 ForwardDiff = "f6369f11-7733-5829-9624-2563aa707210"
 
 ["0.22-0"]
 Graphs = "86223c79-3864-5bf0-83f7-82e725a168b6"
 MetaGraphsNext = "fa8bd995-216d-47f1-8a91-f3b68fbeb377"
+
+["0.27-0"]
+NLLSsolver = "50b5cf9e-bf7a-4e29-8981-4280cbba70cb"
+Static = "aedffcd0-7271-4cad-89d0-dc628f76c6d3"
