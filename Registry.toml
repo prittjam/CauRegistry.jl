@@ -10,6 +10,7 @@ description = "CAU Kiel Julia package registry"
 87a2e6a3-7afc-471f-bd1b-aa3740a29cd9 = { name = "ScoreSharpRefineSoft", path = "S/ScoreSharpRefineSoft" }
 93a5632c-6c4c-4c98-b3b2-221d1d9ee9e0 = { name = "BlobBoards", path = "B/BlobBoards" }
 9e05951d-65eb-41d6-b120-50dff4d82817 = { name = "VisualGeometryFeatures", path = "V/VisualGeometryFeatures" }
+9f3d57fc-bc16-4e17-8696-c68eb0f587f4 = { name = "RansacLibLO", path = "R/RansacLibLO" }
 a8c7e0b4-3d2f-4f1c-9a1e-7b2d9c8f4a3b = { name = "PoseLib", path = "P/PoseLib" }
 b6163ec4-f4fe-4f77-8966-0a302dceebb9 = { name = "RayTracedCalibration", path = "R/RayTracedCalibration" }
 c08b2ec2-f1d4-4299-b158-4baa5aad1754 = { name = "LightRigCalibration", path = "L/LightRigCalibration" }
