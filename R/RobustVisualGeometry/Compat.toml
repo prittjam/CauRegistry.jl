@@ -111,13 +111,15 @@ VisualGeometryCore = "0.16-0.18"
 ["0.16.4-0"]
 LinearAlgebra = "1"
 Random = "1"
-RansacScoringDoneRight = "0.7"
 Rotations = "1"
 SpecialFunctions = "2"
 Statistics = "1"
 
 ["0.16.4-0.16"]
 VisualGeometryCore = "0.18"
+
+["0.16.4-0.19.4"]
+RansacScoringDoneRight = "0.7"
 
 ["0.17-0.18"]
 VisualGeometryCore = "0.19"
@@ -131,8 +133,12 @@ VisualGeometryCore = "0.20"
 ["0.19.1-0.19.2"]
 VisualGeometryCore = "0.20-0.21"
 
-["0.19.3-0"]
+["0.19.3-0.19.4"]
 VisualGeometryCore = "0.21.1-0.21"
+
+["0.19.5-0"]
+RansacScoringDoneRight = "0.7.23-0.7"
+VisualGeometryCore = "0.22"
 
 ["0.2.10"]
 VisualGeometryCore = "0.2.5-0.2"
