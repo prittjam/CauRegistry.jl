@@ -23,7 +23,7 @@ Unitful = "1"
 ["0.1.10"]
 VisualGeometryCore = "0.2.5-0.2"
 
-["0.1.10-0"]
+["0.1.10-0.7.1"]
 SpatialIndexing = "0.1.7-0.1"
 
 ["0.1.11"]
@@ -104,5 +104,9 @@ VisualGeometryCore = "0.19"
 ["0.6.8-0.6"]
 VisualGeometryCore = "0.19-0.20"
 
-["0.7-0"]
+["0.7-0.7.1"]
 VisualGeometryCore = "0.21"
+
+["0.7.2-0"]
+SpatialIndexing = "0.1.10-0.1"
+VisualGeometryCore = "0.22"
