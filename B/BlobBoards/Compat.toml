@@ -187,13 +187,18 @@ VisualGeometryCore = "0.21.1-0.21"
 VisualGeometryFeatures = "0.7.1-0.7"
 VisualGeometryIo = "0.7.6-0.7"
 
+["0.27"]
+VisualGeometryCore = "0.22.1-0.22"
+
 ["0.27-0"]
 NLLSsolver = "4.1.0-4"
 RobustVisualGeometry = "0.19.5-0.19"
 Static = "1"
-VisualGeometryCore = "0.22.1-0.22"
 VisualGeometryFeatures = "0.7.2-0.7"
 VisualGeometryIo = "0.7.7-0.7"
+
+["0.28-0"]
+VisualGeometryCore = "0.22.3-0.22"
 
 ["0.3-0.8"]
 Libdl = "1"
