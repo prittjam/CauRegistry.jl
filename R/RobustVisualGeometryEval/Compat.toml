@@ -57,9 +57,16 @@ VisualGeometryFeatures = "0.7.2-0.7"
 RobustVisualGeometry = "0.19.8-0.19"
 VisualGeometryCore = "0.22.6-0.22"
 
-["0.6.7-0"]
+["0.6.7"]
 PoseLib = "0.3.22-0.3"
 RansacScoringDoneRight = "0.7.24-0.7"
 RobustVisualGeometry = "0.20"
 VisualGeometryCore = "0.23"
 VisualGeometryFeatures = "0.7.3-0.7"
+
+["0.6.8-0"]
+PoseLib = "0.3.23-0.3"
+RansacScoringDoneRight = "0.7.25-0.7"
+RobustVisualGeometry = "0.21"
+VisualGeometryCore = "0.24"
+VisualGeometryFeatures = "0.7.4-0.7"
