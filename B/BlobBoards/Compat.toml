@@ -211,11 +211,17 @@ VisualGeometryCore = "0.22.6-0.22"
 ["0.3-0.8"]
 Libdl = "1"
 
-["0.30-0"]
+["0.30"]
 RobustVisualGeometry = "0.20"
 VisualGeometryCore = "0.23"
 VisualGeometryFeatures = "0.7.3-0.7"
 VisualGeometryIo = "0.7.8-0.7"
+
+["0.31-0"]
+RobustVisualGeometry = "0.21"
+VisualGeometryCore = "0.24"
+VisualGeometryFeatures = "0.7.4-0.7"
+VisualGeometryIo = "0.7.9-0.7"
 
 ["0.6.2-0.6"]
 RobustVisualGeometry = "0.2.9-0.2"
