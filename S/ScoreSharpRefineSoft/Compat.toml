@@ -25,7 +25,12 @@ VisualGeometryCore = "0.22"
 RobustVisualGeometry = "0.20"
 VisualGeometryCore = "0.23"
 
-["0.3.3-0"]
+["0.3.3"]
 RobustVisualGeometry = "0.21"
 RobustVisualGeometryEval = "0.6.8-0.6"
 VisualGeometryCore = "0.24"
+
+["0.3.4-0"]
+RobustVisualGeometry = "0.21.1-0.21"
+RobustVisualGeometryEval = "0.6.9-0.6"
+VisualGeometryCore = "0.25"
