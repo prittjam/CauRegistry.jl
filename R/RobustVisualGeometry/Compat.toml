@@ -183,9 +183,14 @@ VisualGeometryCore = "0.23"
 RansacScoringDoneRight = "0.7.25-0.7"
 VisualGeometryCore = "0.24"
 
+["0.21.1"]
+VisualGeometryCore = "0.25"
+
 ["0.21.1-0"]
 RansacScoringDoneRight = "0.7.26-0.7"
-VisualGeometryCore = "0.25"
+
+["0.21.2-0"]
+VisualGeometryCore = "0.25.1-0.25"
 
 ["0.3-0.4"]
 RansacScoringDoneRight = "0.4"
