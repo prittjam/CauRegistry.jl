@@ -124,7 +124,7 @@ VisualGeometryCore = "0.24"
 ["0.7.5"]
 VisualGeometryCore = "0.25"
 
-["0.7.6-0"]
+["0.7.6-0.8.0"]
 VisualGeometryCore = "0.25.1-0.25"
 
 ["0.7.8-0"]
@@ -133,3 +133,6 @@ julia = "1.12.0-1"
 ["0.8-0"]
 LinearAlgebra = "1"
 SHA = "0.7"
+
+["0.8.1-0"]
+VisualGeometryCore = "0.26"
