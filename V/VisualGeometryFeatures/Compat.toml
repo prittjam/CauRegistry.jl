@@ -1,15 +1,9 @@
 [0]
 Colors = "0.13"
 Distributions = "0.25"
-FileIO = "1.18.0-1"
 FixedPointNumbers = "0.8"
 ImageCore = "0.10"
-ImageFiltering = "0.7"
-ImageTransformations = "0.10"
-Interpolations = "0.16"
 JSON3 = "1"
-OffsetArrays = "1"
-Rotations = "1"
 StaticArrays = "1"
 StructArrays = "0.7"
 StructTypes = "1"
@@ -19,6 +13,14 @@ SpatialIndexing = "0.1"
 
 ["0-0.3.3"]
 Unitful = "1"
+
+["0-0.7"]
+FileIO = "1.18.0-1"
+ImageFiltering = "0.7"
+ImageTransformations = "0.10"
+Interpolations = "0.16"
+OffsetArrays = "1"
+Rotations = "1"
 
 ["0.1.10"]
 VisualGeometryCore = "0.2.5-0.2"
@@ -32,13 +34,13 @@ VisualGeometryCore = "0.2.6-0.2"
 ["0.1.12-0.1"]
 VisualGeometryCore = "0.2.6-0.3"
 
-["0.1.7-0"]
+["0.1.7-0.1.9"]
+VisualGeometryCore = "0.2"
+
+["0.1.7-0.7"]
 DelimitedFiles = "1.9.1-1"
 HDF5 = "0.17.3-0.17"
 NPZ = "0.4.3-0.4"
-
-["0.1.7-0.1.9"]
-VisualGeometryCore = "0.2"
 
 ["0.2"]
 VisualGeometryCore = "0.3.1-0.3"
@@ -68,11 +70,11 @@ VisualGeometryCore = "0.7-0.13"
 ["0.3.14-0.6.2"]
 VisualGeometryCore = "0.7-0.14"
 
-["0.3.4-0"]
-DynamicQuantities = "1.13.0-1"
-
 ["0.3.4-0.3.5"]
 VisualGeometryCore = "0.4-0.5"
+
+["0.3.4-0.7"]
+DynamicQuantities = "1.13.0-1"
 
 ["0.3.6"]
 VisualGeometryCore = "0.6"
@@ -110,7 +112,7 @@ VisualGeometryCore = "0.21"
 ["0.7.2"]
 VisualGeometryCore = "0.22"
 
-["0.7.2-0"]
+["0.7.2-0.7"]
 SpatialIndexing = "0.1.10-0.1"
 
 ["0.7.3"]
@@ -127,3 +129,7 @@ VisualGeometryCore = "0.25.1-0.25"
 
 ["0.7.8-0"]
 julia = "1.12.0-1"
+
+["0.8-0"]
+LinearAlgebra = "1"
+SHA = "0.7"
