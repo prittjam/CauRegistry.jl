@@ -39,3 +39,6 @@ GPUArraysCore = "46192b85-c4d5-4398-a991-12ede77f4527"
 
 ["0.3.4-0.7"]
 DynamicQuantities = "06fc5a27-2a28-4c7c-a15d-362465fb6821"
+
+["0.8.2-0"]
+PrecompileTools = "aea7be01-6a6a-4083-8856-8a6e6704d82a"
