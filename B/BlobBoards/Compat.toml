@@ -256,11 +256,17 @@ VisualGeometryIo = "0.9.3-0.9"
 RobustVisualGeometry = "0.21.4-0.21"
 VisualGeometryCore = "0.26.3-0.26"
 
-["0.33.6-0"]
+["0.33.6-0.33"]
 RobustVisualGeometry = "0.21.5-0.21"
 VisualGeometryCore = "0.27"
 VisualGeometryFeatures = "0.8.3-0.8"
 VisualGeometryIo = "0.9.4-0.9"
+
+["0.34-0"]
+RobustVisualGeometry = "0.22"
+VisualGeometryCore = "0.28"
+VisualGeometryFeatures = "0.9"
+VisualGeometryIo = "0.10"
 
 ["0.6.2-0.6"]
 RobustVisualGeometry = "0.2.9-0.2"
