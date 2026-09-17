@@ -92,8 +92,14 @@ NPZ = "0.4.3-0.4"
 RobustVisualGeometry = "0.21.2-0.21"
 VisualGeometryCore = "0.25.1-0.25"
 
-["0.7.1-0"]
+["0.7.1"]
 PoseLib = "0.3.25-0.3"
 RansacScoringDoneRight = "0.7.27-0.7"
 RobustVisualGeometry = "0.21.3-0.21"
 VisualGeometryCore = "0.26"
+
+["0.7.2-0"]
+PoseLib = "0.3.26-0.3"
+RansacScoringDoneRight = "0.7.28-0.7"
+RobustVisualGeometry = "0.21.5-0.21"
+VisualGeometryCore = "0.27"
