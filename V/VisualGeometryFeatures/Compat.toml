@@ -140,5 +140,8 @@ VisualGeometryCore = "0.26"
 ["0.8.2-0"]
 PrecompileTools = "1"
 
-["0.8.3-0"]
+["0.8.3-0.8"]
 VisualGeometryCore = "0.27"
+
+["0.9-0"]
+VisualGeometryCore = "0.28"
