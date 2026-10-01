@@ -1,9 +1,11 @@
 [0]
 Dates = "1.11.0-1"
 Logging = "1.11.0-1"
-Optim = "2.2.1-2"
 SHA = "0.7"
 TOML = "1.0.3-1"
+
+["0-0.8"]
+Optim = "2.2.1-2"
 
 ["0.2-0.2.20"]
 RobustVisualGeometry = "0.15"
@@ -104,8 +106,30 @@ RansacScoringDoneRight = "0.7.28-0.7"
 RobustVisualGeometry = "0.21.5-0.21"
 VisualGeometryCore = "0.27"
 
-["0.8-0"]
+["0.8"]
 PoseLib = "0.4"
 RansacScoringDoneRight = "0.8"
 RobustVisualGeometry = "0.22"
 VisualGeometryCore = "0.28"
+
+["0.9-0"]
+Bootstrap = "2.4.0-2"
+DataFrames = "1.8.0-1"
+DrWatson = "2.19.0-2"
+HDF5 = "0.17"
+JLD2 = "0.6"
+LinearAlgebra = "1"
+PGFPlotsX = "1.6.0-1"
+PoseLib = "0.5"
+Printf = "1"
+Random = "1"
+RansacScoringDoneRight = "0.9"
+RobustVisualGeometry = "0.23"
+Rotations = "1"
+StableRNGs = "1"
+StaticArrays = "1"
+Statistics = "1"
+StructArrays = "0.7"
+VisualGeometryCore = "0.29"
+VisualGeometryIo = "0.11"
+julia = "1.12.0-1"
