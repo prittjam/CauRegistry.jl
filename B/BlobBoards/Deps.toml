@@ -111,3 +111,7 @@ MetaGraphsNext = "fa8bd995-216d-47f1-8a91-f3b68fbeb377"
 ["0.27-0"]
 NLLSsolver = "50b5cf9e-bf7a-4e29-8981-4280cbba70cb"
 Static = "aedffcd0-7271-4cad-89d0-dc628f76c6d3"
+
+["0.35-0"]
+PrecompileTools = "aea7be01-6a6a-4083-8856-8a6e6704d82a"
+RansacScoringDoneRight = "e23d4225-f201-4c3a-a297-7efae5f2deeb"
