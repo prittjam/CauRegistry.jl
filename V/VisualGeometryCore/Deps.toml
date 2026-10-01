@@ -46,6 +46,10 @@ MacroTools = "1914dd2f-81c6-5fcd-8719-6d5c9610ff09"
 ["0.21.1-0"]
 TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
 
+["0.29-0"]
+FastLevenbergMarquardt = "7a0df574-e128-4d35-8cbd-3d84502bf7ce"
+LogExpFunctions = "2ab3a3ac-af41-5b50-aa03-7779005ae688"
+
 ["0.3.1-0"]
 KernelAbstractions = "63c18a36-062a-441e-b654-da1e3ab1ce7c"
 

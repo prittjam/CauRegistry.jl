@@ -14,3 +14,9 @@ ChainRulesCore = "1"
 
 ["0.21-0"]
 CUDA = "5"
+
+["0.29-0"]
+Aqua = "0.8"
+ExplicitImports = "1"
+JET = "0.12"
+Test = "1"

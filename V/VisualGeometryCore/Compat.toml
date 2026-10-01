@@ -51,6 +51,10 @@ TOML = "1"
 ["0.21.2-0"]
 SpatialIndexing = "0.1.10-0.1"
 
+["0.29-0"]
+FastLevenbergMarquardt = "0.1"
+LogExpFunctions = ["0.3", "1"]
+
 ["0.3.1-0"]
 KernelAbstractions = "0.9"
 
