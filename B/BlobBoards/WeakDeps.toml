@@ -25,6 +25,9 @@ PythonCall = "6099a3de-0909-46bc-b1f4-468b9a2dfc0d"
 CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
 cuDNN = "02a925ec-e4fe-4b08-9a7e-0d78e3d38ccd"
 
+["0.36-0"]
+Libtiff_jll = "89763e89-9b03-5906-acba-b20f662cd828"
+
 ["0.8.5-0"]
 CairoMakie = "13f3f980-e62b-5c42-98c6-ff1f3baf88f0"
 Makie = "ee78f7c6-11fb-53f2-987a-cfe4a2b5a57a"

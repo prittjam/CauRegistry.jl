@@ -25,6 +25,9 @@ PythonCall = "0.9"
 CUDA = "5.11.0-5"
 cuDNN = "1.4.7-1"
 
+["0.36-0"]
+Libtiff_jll = "4.7.0-4"
+
 ["0.8.5-0"]
 CairoMakie = "0.15"
 Makie = "0.24"
