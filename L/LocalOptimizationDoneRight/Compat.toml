@@ -1,4 +1,4 @@
-[0]
+["0-0.5"]
 julia = "1.10.0-1"
 
 ["0.2"]
@@ -48,8 +48,24 @@ RobustVisualGeometryEval = "0.9"
 
 ["0.4-0"]
 RansacLibLO = "0.2"
+
+["0.4-0.5"]
 VisualGeometryCore = "0.29"
 
-["0.5-0"]
+["0.5"]
 RobustVisualGeometry = "0.23.1-0.23"
 RobustVisualGeometryEval = "0.13"
+
+["0.6-0"]
+LinearAlgebra = "1"
+PoseLib = "0.5.1-0.5"
+Random = "1"
+RansacScoringDoneRight = "0.11"
+RobustVisualGeometry = "0.24"
+Rotations = "1.7.0-1"
+StableRNGs = "1"
+Statistics = "1"
+TOML = "1.0.3-1"
+VisualGeometryCore = "0.30"
+VisualGeometryEval = "0.1"
+julia = "1.11.0-1"

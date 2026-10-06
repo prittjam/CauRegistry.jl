@@ -1,7 +1,6 @@
 [0]
 RansacLibLO = "9f3d57fc-bc16-4e17-8696-c68eb0f587f4"
 RobustVisualGeometry = "48970fad-9a21-401c-bf6c-679fa4f2bd7f"
-RobustVisualGeometryEval = "3225cc9d-5db1-44e4-a792-28f8e5474c59"
 StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
 VisualGeometryCore = "297d53b8-c8d7-4cd7-a9af-68e656508a81"
 
@@ -29,6 +28,20 @@ Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 StructArrays = "09ab397b-f2b6-538f-b94a-2f83cf4a842a"
 TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
 
+["0-0.5"]
+RobustVisualGeometryEval = "3225cc9d-5db1-44e4-a792-28f8e5474c59"
+
 ["0.2"]
 MAT = "23992714-dd62-5051-b70f-ba57cb901cac"
 VisualGeometryIo = "d0441031-17df-4f07-bc88-8d8f5a818e7b"
+
+["0.6-0"]
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+PoseLib = "a8c7e0b4-3d2f-4f1c-9a1e-7b2d9c8f4a3b"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+RansacScoringDoneRight = "e23d4225-f201-4c3a-a297-7efae5f2deeb"
+Rotations = "6038ab10-8711-5258-84ad-4b1120ba62dc"
+StableRNGs = "860ef19b-820b-49d6-a774-d7a799459cd3"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
+VisualGeometryEval = "3a96b074-0aeb-4323-98af-032cad4f5882"
