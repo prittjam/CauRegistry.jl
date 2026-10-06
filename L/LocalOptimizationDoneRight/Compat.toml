@@ -56,16 +56,25 @@ VisualGeometryCore = "0.29"
 RobustVisualGeometry = "0.23.1-0.23"
 RobustVisualGeometryEval = "0.13"
 
-["0.6-0"]
-LinearAlgebra = "1"
+["0.6"]
 PoseLib = "0.5.1-0.5"
-Random = "1"
 RansacScoringDoneRight = "0.11"
 RobustVisualGeometry = "0.24"
+VisualGeometryCore = "0.30"
+VisualGeometryEval = "0.1"
+
+["0.6-0"]
+LinearAlgebra = "1"
+Random = "1"
 Rotations = "1.7.0-1"
 StableRNGs = "1"
 Statistics = "1"
 TOML = "1.0.3-1"
-VisualGeometryCore = "0.30"
-VisualGeometryEval = "0.1"
 julia = "1.11.0-1"
+
+["0.7-0"]
+PoseLib = "0.5.2-0.5"
+RansacScoringDoneRight = "0.12"
+RobustVisualGeometry = "0.25"
+VisualGeometryCore = "0.31"
+VisualGeometryEval = "0.1.1-0.1"
