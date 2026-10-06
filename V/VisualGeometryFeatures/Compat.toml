@@ -44,8 +44,11 @@ DelimitedFiles = "1.9.1-1"
 HDF5 = "0.17.3-0.17"
 NPZ = "0.4.3-0.4"
 
-["0.10-0"]
+["0.10.0"]
 VisualGeometryCore = "0.29"
+
+["0.10.1-0"]
+VisualGeometryCore = "0.31"
 
 ["0.2"]
 VisualGeometryCore = "0.3.1-0.3"
