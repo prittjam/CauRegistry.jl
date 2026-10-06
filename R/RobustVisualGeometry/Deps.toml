@@ -57,6 +57,8 @@ TOML = "fa267f1f-6049-4f14-aa54-33bafae1ed76"
 FastLevenbergMarquardt = "7a0df574-e128-4d35-8cbd-3d84502bf7ce"
 RansacScoringDoneRight = "e23d4225-f201-4c3a-a297-7efae5f2deeb"
 
-["0.23-0"]
+["0.23"]
 QuadGK = "1fd47b50-473d-5c70-9696-f719f8f3bcdc"
+
+["0.23-0"]
 SparseArrays = "2f01184e-e22b-5df5-ae63-d93ebab69eaf"
