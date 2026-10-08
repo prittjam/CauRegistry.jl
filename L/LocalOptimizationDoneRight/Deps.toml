@@ -1,8 +1,3 @@
-[0]
-RobustVisualGeometry = "48970fad-9a21-401c-bf6c-679fa4f2bd7f"
-StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
-VisualGeometryCore = "297d53b8-c8d7-4cd7-a9af-68e656508a81"
-
 ["0-0.2"]
 Bootstrap = "e28b5b4c-05e8-5b66-bc03-6f0c0a0a06e0"
 CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
@@ -33,11 +28,16 @@ RobustVisualGeometryEval = "3225cc9d-5db1-44e4-a792-28f8e5474c59"
 ["0-0.7"]
 RansacLibLO = "9f3d57fc-bc16-4e17-8696-c68eb0f587f4"
 
+[0-1]
+RobustVisualGeometry = "48970fad-9a21-401c-bf6c-679fa4f2bd7f"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
+VisualGeometryCore = "297d53b8-c8d7-4cd7-a9af-68e656508a81"
+
 ["0.2"]
 MAT = "23992714-dd62-5051-b70f-ba57cb901cac"
 VisualGeometryIo = "d0441031-17df-4f07-bc88-8d8f5a818e7b"
 
-["0.6-0"]
+["0.6-1"]
 LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
 PoseLib = "a8c7e0b4-3d2f-4f1c-9a1e-7b2d9c8f4a3b"
 Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
