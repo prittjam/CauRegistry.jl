@@ -109,11 +109,11 @@ VisualGeometryFeatures = "0.4-0.5"
 ["0.13-0.19"]
 VisualGeometryFeatures = "0.4-0.6"
 
-["0.16-0"]
-SpatialIndexing = "0.1.10-0.1"
-
 ["0.16-0.20"]
 RobustVisualGeometry = "0.15.7-0.15"
+
+["0.16-0.38"]
+SpatialIndexing = "0.1.10-0.1"
 
 ["0.17-0"]
 Artifacts = "1"
@@ -150,12 +150,12 @@ ForwardDiff = "1.3.2-1"
 ["0.22"]
 VisualGeometryCore = "0.16"
 
-["0.22-0"]
-Graphs = "1.12.0-1"
-MetaGraphsNext = "0.8"
-
 ["0.22-0.25"]
 VisualGeometryIo = "0.7"
+
+["0.22-0.38"]
+Graphs = "1.12.0-1"
+MetaGraphsNext = "0.8"
 
 ["0.23.0"]
 VisualGeometryCore = "0.17"
@@ -190,16 +190,16 @@ VisualGeometryIo = "0.7.6-0.7"
 ["0.27"]
 VisualGeometryCore = "0.22.1-0.22"
 
-["0.27-0"]
-NLLSsolver = "4.1.0-4"
-Static = "1"
-
 ["0.27-0.28"]
 RobustVisualGeometry = "0.19.5-0.19"
 
 ["0.27-0.29"]
 VisualGeometryFeatures = "0.7.2-0.7"
 VisualGeometryIo = "0.7.7-0.7"
+
+["0.27-0.38"]
+NLLSsolver = "4.1.0-4"
+Static = "1"
 
 ["0.28"]
 VisualGeometryCore = "0.22.3-0.22"
@@ -268,9 +268,6 @@ VisualGeometryCore = "0.28"
 VisualGeometryFeatures = "0.9"
 VisualGeometryIo = "0.10"
 
-["0.35-0"]
-PrecompileTools = "1"
-
 ["0.35-0.37"]
 RansacScoringDoneRight = "0.9"
 RobustVisualGeometry = "0.23"
@@ -278,7 +275,10 @@ VisualGeometryCore = "0.29"
 VisualGeometryFeatures = "0.10"
 VisualGeometryIo = "0.11"
 
-["0.38-0"]
+["0.35-0.38"]
+PrecompileTools = "1"
+
+["0.38"]
 RobustVisualGeometry = "0.25"
 VisualGeometryIo = "0.11.2-0.11"
 
@@ -290,12 +290,20 @@ VisualGeometryFeatures = "0.10.1-0.10"
 ["0.38.1"]
 VisualGeometryFeatures = "0.11"
 
-["0.38.1-0"]
+["0.38.1-0.38"]
 RansacScoringDoneRight = "0.12.1-0.12"
 VisualGeometryCore = "0.31.1-0.31"
 
-["0.38.2-0"]
+["0.38.2-0.38"]
 VisualGeometryFeatures = "0.11.1-0.11"
+
+["0.39-0"]
+RansacScoringDoneRight = "0.12.2-0.12"
+RobustVisualGeometry = "0.25.1-0.25"
+SpatialIndexing = "0.1.6"
+VisualGeometryCore = "0.31.2-0.31"
+VisualGeometryFeatures = "0.11.2-0.11"
+VisualGeometryIo = "0.11.3-0.11"
 
 ["0.6.2-0.6"]
 RobustVisualGeometry = "0.2.9-0.2"
@@ -304,11 +312,11 @@ VisualGeometryFeatures = "0.1.9-0.1"
 ["0.6.2-0.7.1"]
 VisualGeometryCore = "0.2.5-0.2"
 
-["0.7-0"]
-QRCoders = "1.4.6-1"
-
 ["0.7-0.15"]
 SpatialIndexing = "0.1.7-0.1"
+
+["0.7-0.38"]
+QRCoders = "1.4.6-1"
 
 ["0.7-0.7.1"]
 RobustVisualGeometry = "0.2.10-0.2"
