@@ -418,7 +418,13 @@ VisualGeometryCore = "0.7-0.11"
 
 [1]
 RansacScoringDoneRight = "1"
-RobustVisualGeometry = "1"
 VisualGeometryCore = "1"
-VisualGeometryFeatures = "1"
 VisualGeometryIo = "1"
+
+["1-1.0.1"]
+RobustVisualGeometry = "1"
+VisualGeometryFeatures = "1"
+
+["1.0.2-1"]
+RobustVisualGeometry = "1.0.1-1"
+VisualGeometryFeatures = "1.0.1-1"
