@@ -1,6 +1,6 @@
 name = "CauRegistry"
 uuid = "2ae0d7d0-4ccf-4d31-a4a9-ce95dd015bfa"
-repo = "git@github.com:prittjam/CauRegistry.jl.git"
+repo = "https://github.com/prittjam/CauRegistry.jl.git"
 description = "CAU Kiel Julia package registry"
 
 [packages]

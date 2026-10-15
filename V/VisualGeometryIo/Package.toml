@@ -1,3 +1,4 @@
 name = "VisualGeometryIo"
 uuid = "d0441031-17df-4f07-bc88-8d8f5a818e7b"
-repo = "git@github.com:prittjam/VisualGeometryIo.jl.git"
+repo = "https://github.com/VisualGeometryToolkit/VisualGeometryToolkit.jl.git"
+subdir = "VisualGeometryIo"

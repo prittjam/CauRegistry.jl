@@ -1,3 +1,4 @@
 name = "VisualGeometryEval"
 uuid = "3a96b074-0aeb-4323-98af-032cad4f5882"
-repo = "git@github.com:prittjam/VisualGeometryEval.jl.git"
+repo = "https://github.com/VisualGeometryToolkit/VisualGeometryToolkit.jl.git"
+subdir = "VisualGeometryEval"

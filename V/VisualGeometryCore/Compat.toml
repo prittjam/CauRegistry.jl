@@ -1,71 +1,27 @@
-["0-0.3"]
-SpatialIndexing = "0.1"
-
-["0-0.4"]
-ConstructionBase = "1"
-Documenter = "1.16.1-1"
-FileIO = "1"
-FixedSizeArrays = "1.2.0-1"
-ImageFiltering = "0.7"
-ImageTransformations = "0.10"
-Infiltrator = "1"
-Interpolations = "0.16"
-NearestNeighbors = "0.4"
-OffsetArrays = "1"
-Revise = "3"
-Transducers = "0.4"
-Unitful = "1"
-cuDNN = "1"
-
-[0-1]
+[0]
 Accessors = "0.1"
+Adapt = "4"
 Colors = "0.13"
 CoordinateTransformations = "0.6"
 Distributions = "0.25"
+FastLevenbergMarquardt = "0.1"
 FixedPointNumbers = "0.8"
+FlexUnits = "0.6.11-0.6"
 ForwardDiff = "1.3.2-1"
 GeometryBasics = "0.5"
 ImageCore = "0.10"
 IntervalSets = "0.7"
-Rotations = "1"
-StaticArrays = "1"
-StructArrays = "0.7"
-
-["0.1.17-0.3"]
-CairoMakie = "0.15.10-0.15"
-
-["0.14-1"]
-Adapt = "4"
-
-["0.18-1"]
-LinearAlgebra = "1"
-Random = "1"
-Statistics = "1"
-
-["0.2-1"]
-MacroTools = "0.5"
-
-["0.21.1-1"]
-TOML = "1"
-
-["0.21.2-0.31.1"]
-SpatialIndexing = "0.1.10-0.1"
-
-["0.29-1"]
-FastLevenbergMarquardt = "0.1"
-LogExpFunctions = ["0.3", "1"]
-
-["0.3.1-1"]
 KernelAbstractions = "0.9"
-
-["0.3.2-1"]
-julia = "1.12.0-1"
-
-["0.31.2-1"]
+LinearAlgebra = "1"
+LogExpFunctions = ["0.3", "1"]
+MacroTools = "0.5"
+QuadGK = "2.11.0-2"
+Random = "1"
+Rotations = "1"
 SpatialIndexing = "0.1.6"
-
-["0.4-0.21.1"]
-SpatialIndexing = "0.1.7-0.1"
-
-["0.5-1"]
-DynamicQuantities = "1.13.0-1"
+SpecialFunctions = "2"
+StaticArrays = "1"
+Statistics = "1"
+StructArrays = "0.7"
+TOML = "1"
+julia = "1.12.0-1"

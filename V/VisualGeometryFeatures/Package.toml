@@ -1,3 +1,4 @@
 name = "VisualGeometryFeatures"
 uuid = "9e05951d-65eb-41d6-b120-50dff4d82817"
-repo = "git@github.com:prittjam/VisualGeometryFeatures.jl.git"
+repo = "https://github.com/VisualGeometryToolkit/VisualGeometryToolkit.jl.git"
+subdir = "VisualGeometryFeatures"
