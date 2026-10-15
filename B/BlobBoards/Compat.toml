@@ -72,6 +72,9 @@ RobustVisualGeometry = "0.2"
 ["0.1.4-0.10"]
 CUDA = "5.11.0-5"
 
+["0.1.8-0"]
+SHA = "0.7"
+
 ["0.1.8-0.8.4"]
 CairoMakie = "0.15"
 
@@ -88,7 +91,6 @@ LinearAlgebra = "1"
 Logging = "1"
 Preferences = "1"
 Random = "1"
-SHA = "0.7"
 StaticArrays = "1"
 Statistics = "1"
 StructArrays = "0.7"
@@ -425,6 +427,19 @@ VisualGeometryIo = "1"
 RobustVisualGeometry = "1"
 VisualGeometryFeatures = "1"
 
+["1.0"]
+SHA = "0.7"
+
 ["1.0.2-1"]
 RobustVisualGeometry = "1.0.1-1"
 VisualGeometryFeatures = "1.0.1-1"
+
+["1.1-1"]
+Base64 = "1"
+Dates = "1"
+FreeType = "4"
+FreeTypeAbstraction = "0.10"
+Libtiff_jll = "4.7.0-4"
+PNGFiles = "0.4"
+SHA = ["0.7", "1"]
+Zlib_jll = "1"

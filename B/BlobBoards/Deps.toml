@@ -119,3 +119,12 @@ PrecompileTools = "aea7be01-6a6a-4083-8856-8a6e6704d82a"
 
 ["0.35-1"]
 RansacScoringDoneRight = "e23d4225-f201-4c3a-a297-7efae5f2deeb"
+
+["1.1-1"]
+Base64 = "2a0f44e3-6c83-55bd-87e4-b1978d98bd5f"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+FreeType = "b38be410-82b0-50bf-ab77-7b57e271db43"
+FreeTypeAbstraction = "663a7486-cb36-511b-a19d-713bb74d65c9"
+Libtiff_jll = "89763e89-9b03-5906-acba-b20f662cd828"
+PNGFiles = "f57f5aa1-a3ce-4bc8-8ab9-96f992907883"
+Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
