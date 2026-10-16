@@ -6,16 +6,11 @@ description = "CAU Kiel Julia package registry"
 [packages]
 297d53b8-c8d7-4cd7-a9af-68e656508a81 = { name = "VisualGeometryCore", path = "V/VisualGeometryCore" }
 3225cc9d-5db1-44e4-a792-28f8e5474c59 = { name = "RobustVisualGeometryEval", path = "R/RobustVisualGeometryEval" }
-3a96b074-0aeb-4323-98af-032cad4f5882 = { name = "VisualGeometryEval", path = "V/VisualGeometryEval" }
 48970fad-9a21-401c-bf6c-679fa4f2bd7f = { name = "RobustVisualGeometry", path = "R/RobustVisualGeometry" }
-87a2e6a3-7afc-471f-bd1b-aa3740a29cd9 = { name = "LocalOptimizationDoneRight", path = "L/LocalOptimizationDoneRight" }
-93a5632c-6c4c-4c98-b3b2-221d1d9ee9e0 = { name = "BlobBoards", path = "B/BlobBoards" }
-9e05951d-65eb-41d6-b120-50dff4d82817 = { name = "VisualGeometryFeatures", path = "V/VisualGeometryFeatures" }
 9f3d57fc-bc16-4e17-8696-c68eb0f587f4 = { name = "RansacLibLO", path = "R/RansacLibLO" }
 a8c7e0b4-3d2f-4f1c-9a1e-7b2d9c8f4a3b = { name = "PoseLib", path = "P/PoseLib" }
 b6163ec4-f4fe-4f77-8966-0a302dceebb9 = { name = "RayTracedCalibration", path = "R/RayTracedCalibration" }
 c08b2ec2-f1d4-4299-b158-4baa5aad1754 = { name = "LightRigCalibration", path = "L/LightRigCalibration" }
 d0441031-17df-4f07-bc88-8d8f5a818e7b = { name = "VisualGeometryIo", path = "V/VisualGeometryIo" }
 d4ead438-fe20-5cc5-a293-4fd39a41b74c = { name = "SpatialIndexing", path = "S/SpatialIndexing" }
-e23d4225-f201-4c3a-a297-7efae5f2deeb = { name = "RansacScoringDoneRight", path = "R/RansacScoringDoneRight" }
 f42e9828-16f3-11ed-2883-9126170b272d = { name = "QRCoders", path = "Q/QRCoders" }
