@@ -5,6 +5,7 @@ description = "CAU Kiel Julia package registry"
 
 [packages]
 297d53b8-c8d7-4cd7-a9af-68e656508a81 = { name = "VisualGeometryCore", path = "V/VisualGeometryCore" }
+2c312ccb-3050-452c-9523-414c480ba3da = { name = "VisualGeometryToolkitIo", path = "V/VisualGeometryToolkitIo" }
 3a96b074-0aeb-4323-98af-032cad4f5882 = { name = "VisualGeometryEval", path = "V/VisualGeometryEval" }
 48970fad-9a21-401c-bf6c-679fa4f2bd7f = { name = "RobustVisualGeometry", path = "R/RobustVisualGeometry" }
 86c88899-11c8-4b8e-8d7a-f01a8ab99b28 = { name = "VisualGeometryToolkitEval", path = "V/VisualGeometryToolkitEval" }
