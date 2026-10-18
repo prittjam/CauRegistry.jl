@@ -15,6 +15,7 @@ description = "CAU Kiel Julia package registry"
 96820d6b-1dad-4e77-ad4a-8276f2ec1ce7 = { name = "VisualGeometryToolkitCore", path = "V/VisualGeometryToolkitCore" }
 9a478df9-9a37-4dc7-9070-58617efe7573 = { name = "VisualGeometryToolkitEstimation", path = "V/VisualGeometryToolkitEstimation" }
 9e05951d-65eb-41d6-b120-50dff4d82817 = { name = "VisualGeometryFeatures", path = "V/VisualGeometryFeatures" }
+a8c7e0b4-3d2f-4f1c-9a1e-7b2d9c8f4a3b = { name = "PoseLib", path = "P/PoseLib" }
 b6163ec4-f4fe-4f77-8966-0a302dceebb9 = { name = "RayTracedCalibration", path = "R/RayTracedCalibration" }
 c08b2ec2-f1d4-4299-b158-4baa5aad1754 = { name = "LightRigCalibration", path = "L/LightRigCalibration" }
 d0441031-17df-4f07-bc88-8d8f5a818e7b = { name = "VisualGeometryIo", path = "V/VisualGeometryIo" }
