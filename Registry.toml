@@ -4,6 +4,7 @@ repo = "https://github.com/prittjam/CauRegistry.jl.git"
 description = "CAU Kiel Julia package registry"
 
 [packages]
+084d9f33-8b05-4903-a655-8a8c4926d033 = { name = "RANSACScoringDoneRight", path = "R/RANSACScoringDoneRight" }
 0a7ae7e7-e931-45f8-9bba-03d07899cebc = { name = "VisualGeometryToolkitIO", path = "V/VisualGeometryToolkitIO" }
 297d53b8-c8d7-4cd7-a9af-68e656508a81 = { name = "VisualGeometryCore", path = "V/VisualGeometryCore" }
 2c312ccb-3050-452c-9523-414c480ba3da = { name = "VisualGeometryToolkitIo", path = "V/VisualGeometryToolkitIo" }
