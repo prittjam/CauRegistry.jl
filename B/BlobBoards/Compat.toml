@@ -49,11 +49,21 @@ VisualGeometryToolkitEstimation = "0.1"
 VisualGeometryToolkitFeatures = "0.1"
 VisualGeometryToolkitIO = "0.1"
 
-["0.2-0"]
-FlexUnits = "0.6.16-0.6"
+["0.2"]
 LocalOptimizationDoneRight = "0.2"
 RANSACScoringDoneRight = "0.2"
 VisualGeometryToolkitCore = "0.2"
 VisualGeometryToolkitEstimation = "0.2"
 VisualGeometryToolkitFeatures = "0.2"
 VisualGeometryToolkitIO = "0.2"
+
+["0.2-0"]
+FlexUnits = "0.6.16-0.6"
+
+["0.3-0"]
+LocalOptimizationDoneRight = "0.3"
+RANSACScoringDoneRight = "0.3"
+VisualGeometryToolkitCore = "0.4"
+VisualGeometryToolkitEstimation = "0.4"
+VisualGeometryToolkitFeatures = "0.4"
+VisualGeometryToolkitIO = "0.4"
