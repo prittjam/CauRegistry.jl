@@ -9,7 +9,6 @@ description = "CAU Kiel Julia package registry"
 48970fad-9a21-401c-bf6c-679fa4f2bd7f = { name = "RobustVisualGeometry", path = "R/RobustVisualGeometry" }
 50be6f7f-1f3a-456f-accc-76fe9fa2fbfd = { name = "CaliBlobs", path = "C/CaliBlobs" }
 5b03ddb8-fc94-4165-83c9-5c94f3367646 = { name = "PanoramaStitching", path = "P/PanoramaStitching" }
-86c88899-11c8-4b8e-8d7a-f01a8ab99b28 = { name = "VisualGeometryToolkitEval", path = "V/VisualGeometryToolkitEval" }
 87a2e6a3-7afc-471f-bd1b-aa3740a29cd9 = { name = "LocalOptimizationDoneRight", path = "L/LocalOptimizationDoneRight" }
 93a5632c-6c4c-4c98-b3b2-221d1d9ee9e0 = { name = "BlobBoards", path = "B/BlobBoards" }
 a8c7e0b4-3d2f-4f1c-9a1e-7b2d9c8f4a3b = { name = "PoseLib", path = "P/PoseLib" }
