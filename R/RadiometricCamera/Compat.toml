@@ -19,8 +19,14 @@ StableRNGs = "1.1.0-1"
 Static = "1"
 StaticArrays = "1"
 TOML = "1"
-VisualGeometryToolkitCore = "0.5"
 VisualGeometryToolkitEstimation = "0.6"
 VisualGeometryToolkitFeatures = "0.4.1-0.4"
-VisualGeometryToolkitIO = "0.5"
 julia = "1.12.0-1"
+
+["0-0.2"]
+VisualGeometryToolkitCore = "0.5"
+VisualGeometryToolkitIO = "0.5"
+
+["0.3-0"]
+VisualGeometryToolkitCore = "0.5.2-0.5"
+VisualGeometryToolkitIO = "0.5.1-0.5"
