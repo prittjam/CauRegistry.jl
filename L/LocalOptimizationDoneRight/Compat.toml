@@ -13,6 +13,10 @@ VisualGeometryToolkitEstimation = "0.1"
 VisualGeometryToolkitCore = "0.2"
 VisualGeometryToolkitEstimation = "0.2"
 
-["0.3-0"]
+["0.3"]
 VisualGeometryToolkitCore = "0.4"
 VisualGeometryToolkitEstimation = "0.4"
+
+["0.4-0"]
+VisualGeometryToolkitCore = "0.5"
+VisualGeometryToolkitEstimation = "0.6"
