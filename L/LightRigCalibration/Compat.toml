@@ -33,3 +33,6 @@ Statistics = "1.11.1-1"
 ["0.3-0"]
 VisualGeometryToolkitCore = "0.5"
 VisualGeometryToolkitEstimation = "0.6"
+
+["0.3.1-0"]
+VisualGeometryToolkitIO = "0.5"
