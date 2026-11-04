@@ -60,10 +60,18 @@ VisualGeometryToolkitIO = "0.2"
 ["0.2-0"]
 FlexUnits = "0.6.16-0.6"
 
-["0.3-0"]
+["0.3"]
 LocalOptimizationDoneRight = "0.3"
 RANSACScoringDoneRight = "0.3"
 VisualGeometryToolkitCore = "0.4"
 VisualGeometryToolkitEstimation = "0.4"
 VisualGeometryToolkitFeatures = "0.4"
 VisualGeometryToolkitIO = "0.4"
+
+["0.4-0"]
+LocalOptimizationDoneRight = "0.4"
+RANSACScoringDoneRight = "0.4"
+VisualGeometryToolkitCore = "0.5.1-0.5"
+VisualGeometryToolkitEstimation = "0.6"
+VisualGeometryToolkitFeatures = "0.4.1-0.4"
+VisualGeometryToolkitIO = "0.5.1-0.5"
