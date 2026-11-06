@@ -10,7 +10,6 @@ description = "CAU Kiel Julia package registry"
 50be6f7f-1f3a-456f-accc-76fe9fa2fbfd = { name = "CaliBlobs", path = "C/CaliBlobs" }
 5b03ddb8-fc94-4165-83c9-5c94f3367646 = { name = "PanoramaStitching", path = "P/PanoramaStitching" }
 7c1f0a52-9d3e-4b6a-9f1e-3d2a8c5b7e01 = { name = "RadiometricCamera", path = "R/RadiometricCamera" }
-87a2e6a3-7afc-471f-bd1b-aa3740a29cd9 = { name = "LocalOptimizationDoneRight", path = "L/LocalOptimizationDoneRight" }
 93a5632c-6c4c-4c98-b3b2-221d1d9ee9e0 = { name = "BlobBoards", path = "B/BlobBoards" }
 b6163ec4-f4fe-4f77-8966-0a302dceebb9 = { name = "RayTracedCalibration", path = "R/RayTracedCalibration" }
 c08b2ec2-f1d4-4299-b158-4baa5aad1754 = { name = "LightRigCalibration", path = "L/LightRigCalibration" }
