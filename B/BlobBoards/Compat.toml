@@ -27,14 +27,12 @@ Poppler_jll = "25.10.0-25"
 Preferences = "1.6.0-1"
 Random = "1"
 Rotations = "1.7.0-1"
-SHA = ["0.7", "1"]
 Scratch = "1.3.0-1"
 SpatialIndexing = "0.1.6-0.1"
 SpecialFunctions = "2.9.0-2"
 StaticArrays = "1.9.0-1"
 Statistics = "1"
 StructArrays = "0.7.4-0.7"
-StructUtils = "2.11.0-2"
 TOML = "1"
 VideoIO = "1.10.0-1"
 Zlib_jll = "1"
@@ -48,6 +46,10 @@ VisualGeometryToolkitCore = "0.1.2-0.1"
 VisualGeometryToolkitEstimation = "0.1"
 VisualGeometryToolkitFeatures = "0.1"
 VisualGeometryToolkitIO = "0.1"
+
+["0-0.4"]
+SHA = ["0.7", "1"]
+StructUtils = "2.11.0-2"
 
 ["0.2"]
 LocalOptimizationDoneRight = "0.2"
@@ -68,10 +70,18 @@ VisualGeometryToolkitEstimation = "0.4"
 VisualGeometryToolkitFeatures = "0.4"
 VisualGeometryToolkitIO = "0.4"
 
-["0.4-0"]
+["0.4"]
 LocalOptimizationDoneRight = "0.4"
 RANSACScoringDoneRight = "0.4"
 VisualGeometryToolkitCore = "0.5.1-0.5"
 VisualGeometryToolkitEstimation = "0.6"
 VisualGeometryToolkitFeatures = "0.4.1-0.4"
 VisualGeometryToolkitIO = "0.5.1-0.5"
+
+["0.5-0"]
+LocalOptimizationDoneRight = "0.5"
+RANSACScoringDoneRight = "0.5"
+VisualGeometryToolkitCore = "0.7"
+VisualGeometryToolkitEstimation = "0.7"
+VisualGeometryToolkitFeatures = "0.6"
+VisualGeometryToolkitIO = "0.7"
