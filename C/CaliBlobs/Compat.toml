@@ -34,7 +34,7 @@ VisualGeometryToolkitEstimation = "0.4"
 VisualGeometryToolkitFeatures = "0.4"
 VisualGeometryToolkitIO = "0.4"
 
-["0.3-0"]
+["0.3"]
 BlobBoards = "0.4"
 LocalOptimizationDoneRight = "0.4"
 RANSACScoringDoneRight = "0.4"
@@ -42,3 +42,12 @@ VisualGeometryToolkitCore = "0.5.1-0.5"
 VisualGeometryToolkitEstimation = "0.6"
 VisualGeometryToolkitFeatures = "0.4.1-0.4"
 VisualGeometryToolkitIO = "0.5.1-0.5"
+
+["0.4-0"]
+BlobBoards = "0.5.1-0.5"
+LocalOptimizationDoneRight = "0.5.1-0.5"
+RANSACScoringDoneRight = "0.6"
+VisualGeometryToolkitCore = "0.8"
+VisualGeometryToolkitEstimation = "0.8"
+VisualGeometryToolkitFeatures = "0.6.1-0.6"
+VisualGeometryToolkitIO = "0.8"
