@@ -5,8 +5,6 @@ description = "CAU Kiel Julia package registry"
 
 [packages]
 297d53b8-c8d7-4cd7-a9af-68e656508a81 = { name = "VisualGeometryCore", path = "V/VisualGeometryCore" }
-2c312ccb-3050-452c-9523-414c480ba3da = { name = "VisualGeometryToolkitIo", path = "V/VisualGeometryToolkitIo" }
-48970fad-9a21-401c-bf6c-679fa4f2bd7f = { name = "RobustVisualGeometry", path = "R/RobustVisualGeometry" }
 50be6f7f-1f3a-456f-accc-76fe9fa2fbfd = { name = "CaliBlobs", path = "C/CaliBlobs" }
 7c1f0a52-9d3e-4b6a-9f1e-3d2a8c5b7e01 = { name = "RadiometricCamera", path = "R/RadiometricCamera" }
 b6163ec4-f4fe-4f77-8966-0a302dceebb9 = { name = "RayTracedCalibration", path = "R/RayTracedCalibration" }

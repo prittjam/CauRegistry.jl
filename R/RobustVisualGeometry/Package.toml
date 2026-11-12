@@ -1,4 +1,0 @@
-name = "RobustVisualGeometry"
-uuid = "48970fad-9a21-401c-bf6c-679fa4f2bd7f"
-repo = "https://github.com/VisualGeometryToolkit/VisualGeometryToolkit.jl.git"
-subdir = "RobustVisualGeometry"
