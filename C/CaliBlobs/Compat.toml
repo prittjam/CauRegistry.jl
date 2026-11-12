@@ -1,16 +1,11 @@
 [0]
 ConstructionBase = "1"
-CoordinateTransformations = "0.6"
 GeometryBasics = "0.5"
-Graphs = "1.12.0-1"
 JSON = "1.12.0-1"
 KernelAbstractions = "0.9"
 LinearAlgebra = "1"
-MetaGraphsNext = "0.8"
-NLLSsolver = "5"
 Random = "1"
 Rotations = "1.7.0-1"
-Static = "1"
 StaticArrays = "1.9.0-1"
 Statistics = "1"
 TOML = "1"
@@ -24,6 +19,13 @@ VisualGeometryToolkitCore = "0.2"
 VisualGeometryToolkitEstimation = "0.2"
 VisualGeometryToolkitFeatures = "0.2"
 VisualGeometryToolkitIO = "0.2"
+
+["0-0.4"]
+CoordinateTransformations = "0.6"
+Graphs = "1.12.0-1"
+MetaGraphsNext = "0.8"
+NLLSsolver = "5"
+Static = "1"
 
 ["0.2.1-0.2"]
 BlobBoards = "0.3"
@@ -43,7 +45,7 @@ VisualGeometryToolkitEstimation = "0.6"
 VisualGeometryToolkitFeatures = "0.4.1-0.4"
 VisualGeometryToolkitIO = "0.5.1-0.5"
 
-["0.4-0"]
+["0.4"]
 BlobBoards = "0.5.1-0.5"
 LocalOptimizationDoneRight = "0.5.1-0.5"
 RANSACScoringDoneRight = "0.6"
@@ -51,3 +53,11 @@ VisualGeometryToolkitCore = "0.8"
 VisualGeometryToolkitEstimation = "0.8"
 VisualGeometryToolkitFeatures = "0.6.1-0.6"
 VisualGeometryToolkitIO = "0.8"
+
+["0.5-0"]
+BlobBoards = "0.6"
+LocalOptimizationDoneRight = "0.6"
+VisualGeometryToolkitCore = "0.9"
+VisualGeometryToolkitEstimation = "0.9"
+VisualGeometryToolkitFeatures = "0.8"
+VisualGeometryToolkitIO = "0.9"
