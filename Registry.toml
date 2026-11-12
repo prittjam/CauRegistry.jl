@@ -4,8 +4,6 @@ repo = "https://github.com/prittjam/CauRegistry.jl.git"
 description = "CAU Kiel Julia package registry"
 
 [packages]
-297d53b8-c8d7-4cd7-a9af-68e656508a81 = { name = "VisualGeometryCore", path = "V/VisualGeometryCore" }
 50be6f7f-1f3a-456f-accc-76fe9fa2fbfd = { name = "CaliBlobs", path = "C/CaliBlobs" }
 7c1f0a52-9d3e-4b6a-9f1e-3d2a8c5b7e01 = { name = "RadiometricCamera", path = "R/RadiometricCamera" }
-b6163ec4-f4fe-4f77-8966-0a302dceebb9 = { name = "RayTracedCalibration", path = "R/RayTracedCalibration" }
 c08b2ec2-f1d4-4299-b158-4baa5aad1754 = { name = "LightRigCalibration", path = "L/LightRigCalibration" }
