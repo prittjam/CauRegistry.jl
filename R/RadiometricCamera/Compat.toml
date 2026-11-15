@@ -35,7 +35,7 @@ DelaunayTriangulation = "1.7.0-1"
 ImageSmooth = "0.1"
 julia = "1.12.0-1"
 
-["0.10-0"]
+["0.10"]
 VisualGeometryToolkitCore = "0.10.3-0.10"
 
 ["0.10.0"]
@@ -43,8 +43,19 @@ VisualGeometryToolkitFeatures = "0.9.3-0.9"
 VisualGeometryToolkitIO = "0.10.2-0.10"
 
 ["0.10.1-0"]
-VisualGeometryToolkitFeatures = "0.9.4-0.9"
 VisualGeometryToolkitIO = "0.10.3-0.10"
+
+["0.10.1-0.10"]
+VisualGeometryToolkitFeatures = "0.9.4-0.9"
+
+["0.11-0"]
+LinearAlgebra = "1"
+Printf = "1"
+Random = "1"
+Statistics = "1"
+VisualGeometryToolkitCore = "0.10.8-0.10"
+VisualGeometryToolkitEstimation = "0.11.6-0.11"
+VisualGeometryToolkitFeatures = "0.9.6-0.9"
 
 ["0.3"]
 VisualGeometryToolkitCore = "0.5.2-0.5"
@@ -81,5 +92,7 @@ VisualGeometryToolkitIO = "0.10"
 ["0.9-0"]
 LibRaw_jll = "0.22.2-0.22"
 NLLSsolver = "5.3.4-5"
-VisualGeometryToolkitEstimation = "0.11.1-0.11"
 julia = "1.13.0-1"
+
+["0.9-0.10"]
+VisualGeometryToolkitEstimation = "0.11.1-0.11"
