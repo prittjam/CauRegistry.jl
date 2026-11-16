@@ -53,17 +53,28 @@ LinearAlgebra = "1"
 Printf = "1"
 Random = "1"
 Statistics = "1"
-VisualGeometryToolkitFeatures = "0.9.6-0.9"
 
 ["0.11-0.11.3"]
 VisualGeometryToolkitCore = "0.10.8-0.10"
 VisualGeometryToolkitEstimation = "0.11.6-0.11"
 
-["0.11.4-0"]
-StatsBase = "0.34.13-0.34"
+["0.11-0.11.4"]
+VisualGeometryToolkitFeatures = "0.9.6-0.9"
+
+["0.11.4"]
 VisualGeometryToolkitCore = "0.10.11-0.10"
 VisualGeometryToolkitEstimation = "0.11.9-0.11"
 VisualGeometryToolkitIO = "0.10.5-0.10"
+
+["0.11.4-0"]
+StatsBase = "0.34.13-0.34"
+
+["0.11.5-0"]
+SparseArrays = "1"
+VisualGeometryToolkitCore = "0.11.1-0.11"
+VisualGeometryToolkitEstimation = "0.12"
+VisualGeometryToolkitFeatures = "0.9.8-0.9"
+VisualGeometryToolkitIO = "0.10.6-0.10"
 
 ["0.3"]
 VisualGeometryToolkitCore = "0.5.2-0.5"
