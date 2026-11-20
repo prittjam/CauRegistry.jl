@@ -5,5 +5,4 @@ description = "CAU Kiel Julia package registry"
 
 [packages]
 50be6f7f-1f3a-456f-accc-76fe9fa2fbfd = { name = "CaliBlobs", path = "C/CaliBlobs" }
-7c1f0a52-9d3e-4b6a-9f1e-3d2a8c5b7e01 = { name = "RadiometricCamera", path = "R/RadiometricCamera" }
 c08b2ec2-f1d4-4299-b158-4baa5aad1754 = { name = "LightRigCalibration", path = "L/LightRigCalibration" }
