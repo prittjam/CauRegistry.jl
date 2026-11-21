@@ -8,3 +8,4 @@ description = "CAU Kiel Julia package registry"
 544ea8c7-2427-4873-ab3e-33acc9dfb29a = { name = "VisualRadiometryToolkitCore", path = "V/VisualRadiometryToolkitCore" }
 7c1f0a52-9d3e-4b6a-9f1e-3d2a8c5b7e01 = { name = "RadiometricCamera", path = "R/RadiometricCamera" }
 c08b2ec2-f1d4-4299-b158-4baa5aad1754 = { name = "LightRigCalibration", path = "L/LightRigCalibration" }
+c447a127-8502-41e7-ac3e-ce2a12d00bd3 = { name = "VisualRadiometryToolkitIO", path = "V/VisualRadiometryToolkitIO" }
